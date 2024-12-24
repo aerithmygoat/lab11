@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cstdlib>
+#include<ctime>
 #include<string>
 using namespace std;
 // cout << "Press Enter 3 times to reveal your future.";
